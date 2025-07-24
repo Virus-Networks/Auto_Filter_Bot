@@ -214,7 +214,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     MOVIE_UPDATE_NOTIFY_TXT = """
 </b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
 
-<blockquote>✨ ᴛɪᴛʟᴇ : <a href='https://t.me/V2_Premium'><b>{file_name}</b></a>
+<blockquote>✨ ᴛɪᴛʟᴇ : <a href='https://t.me/V2_Premium'><b>{filename}</b></a>
 
 🎭 ɢᴇɴʀᴇs : <b>{genres}</b>
 📺 ᴏᴛᴛ        : <b>{ott}</b>
